@@ -6,7 +6,7 @@ html = [[
 	}
 </style>
 <div onclick="A.onClick()">需要更新</div>
-<div onclick="B.number(123.0)">复制更新链接</div>
+<div onclick="B.number(123.0)">点我复制更新链接</div>
 ]]
 funs = {}
 
