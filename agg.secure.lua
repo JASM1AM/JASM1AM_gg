@@ -14,7 +14,7 @@ funs["A"] = function()
 gg.toast("需要更新")
 end
 funs["B"] = function()
-gg.copyText("https://hjgg.lanzoue.com/ihlfZ33nnlpe")
+gg.copyText("https://hjgg.lanzoue.com/idUPg33szrgd")
 gg.alert("复制成功")
 end
 local view = gg.viewWeb(html, funs)
