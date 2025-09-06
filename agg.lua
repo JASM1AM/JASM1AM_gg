@@ -9,5 +9,5 @@ if gg.getRangesList("libanogs.so:bss")[1] then
 			freeze = true,
 		},
 	})
-	gg.toast("防闪开启成功")
+	gg.alert("防闪开启成功")
 end
